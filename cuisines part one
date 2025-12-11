@@ -1,0 +1,784 @@
+<doctype html>
+    <html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="veiwport" content="width=device-width"
+        <title>replit</title>
+        link href="style.css" rel="stylesheet" type="text/css"/>
+    </head>
+
+    <body>
+        <header
+        <h1>pakistani cuisines</h1>
+        <div>
+    <img src="image/cover.jpg">
+    <p>id="description">Traditional Pakistani cuisine is a rich and aromatic fusion of influences from South and Central Asia, known for its bold flavors and prominent use of spices like cumin, coriander, and garam masala. The diet is centered around staples such as wheat, rice, and lentils, with various flatbreads (roti, naan) accompanying most meals. Meat, particularly chicken, beef, and mutton, features heavily in dishes like Biryani (a fragrant layered rice dish), Nihari (a slow-cooked stew), and Karahi (a spicy tomato-based curry). The cuisine also boasts popular street foods like Chapli Kebabs and Samosas, along with beloved beverages like milky chai and yogurt-based lassi, reflecting a deep cultural connection to hearty, flavorful food.
+    </p>
+    </div>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="punjabi food">
+                    punjabi
+            </a>
+            </li>
+            <li>
+                <a href="balochi food">
+                    balochi
+                </a>
+            </li>
+            <li>
+                <a href="sindhi food">
+                sindhi
+                </a>
+            </li>
+            <li>
+                <a href="peshawari food">
+                peshawari
+                </a>
+            </li>
+            <li>
+                <a href="afghani food">
+                    afghani
+                </a>
+            </li>
+            </ul>
+            </nav>
+            <main>
+                <section id="punjabi-food"
+                <h2>punjabi food</h2>
+                <img src="/images/punjabi-food.jpg" width="300px" alt="punjabi food">
+                <p>Punjabi food is widely appreciated for its rich, robust flavors, generous use of dairy products like ghee and butter, and hearty, wholesome ingredients that reflect the region's agricultural heritage. It offers a diverse range of dishes, both vegetarian and non-vegetarian, known for their comforting and indulgent nature. </p>
+                </div>
+                </section>
+                <section id="balochi food">
+                    <h2>balochi food</h2>
+                    <div>
+                        <img src="/images/balochi-food.jpeg" width="300px" alt="balochi food">
+                        <p>Balochi food is a unique and robust cuisine, primarily appreciated for its focus on meat, minimal spices, and distinctive slow-cooking techniques. The absence of complex spices allows the natural flavors of the main ingredients, particularly lamb and goat, to stand out. This culinary tradition is heavily influenced by the region's arid environment and nomadic history, emphasizing resourcefulness and hearty, satisfying meals prepared using age-old methods like open-fire or pit-cooking. Signature dishes such as Sajji—a whole lamb or chicken slow-roasted over coals and typically served with rice or the sturdy Kaak bread—and Dumpukht, where a whole animal is cooked in a sealed underground pit, are communal affairs that reflect strong cultural traditions of hospitality and pride in their heritage. The cuisine's value lies not just in its simple, deep flavors but also in the rich history and community-oriented rituals surrounding its preparation and consumption.</p>
+                    </div>
+                </section>
+                <section id="sindhi food">
+                <h2>sindhi food</h2>
+                <div>
+                    <img src="/images/sindhi-food.jpeg" width="300px" alt="sindhi food">
+                    <p>Sindhi food is widely appreciated for its rich, aromatic flavors, diverse use of seasonal vegetables and fish, and a unique balance of tangy, spicy, and sometimes sweet elements in a single meal. Influenced by ancient Indus Valley, Central Asian, Arab, and Mughal culinary traditions, the cuisine offers a wide array of both vegetarian and non-vegetarian dishes. A prominent feature is the use of locally sourced ingredients like lotus stem (bhee), various greens (sai bhaji), and the prized Pallo fish from the Indus River. The cooking style frequently employs slow cooking methods to impart depth and richness, using a bold yet balanced blend of spices such as cumin, coriander, and turmeric, with tartness often achieved through ingredients like tamarind or dried pomegranate seeds. Staples revolve around wheat-based flatbreads (phulka or koki) and rice, accompanied by dishes such as the iconic Sindhi Biryani, known for its distinct blend of spices and use of prunes and potatoes, or Sindhi Kadhi, a unique, tangy gram flour and vegetable curry that is a staple for special occasions. The cuisine is deeply tied to culture and hospitality, with specific dishes prepared for festivals and family gatherings, making it an integral part of the Sindhi heritage.</p>
+                </div>
+                </section>
+                <section id="peshawari food">
+                    <h2>peshawari food</h2>
+                    <div>
+                        <img src="/images/peshawari-food.jpeg" width="300px" alt="peshawari food">
+                    <p>Peshawari food, rooted in the traditions of the Pashtun belt, is primarily appreciated for its meat-forward approach, rich earthy flavors, and the masterful use of minimal spices that allows the core ingredients to shine. This cuisine is known for focusing on grilled and slow-cooked meat dishes, often prepared using simple techniques and animal fat for a distinctive richness, rather than relying on heavy gravies or overwhelming heat. Chefs in Peshawar are known for their "mindful" use of spices like cumin, coriander, and black pepper, ensuring that the natural flavor of the meat is enhanced, not masked. Traditional cooking methods, such as cooking over charcoal for an earthy, smoky aroma or slow-cooking in traditional handi (clay pots) or deep karahis (woks), are central to the culinary identity and are techniques passed down through generations. The cuisine is celebrated for items like the famous Chapli Kabab (spicy minced meat patties), Namkeen Gosht (simple, salted slow-cooked mutton), and Peshawari Mutton Karahi (meat cooked in a wok with tomatoes, ginger, and green chilies). Food is a cornerstone of Pashtun hospitality, with elaborate and generously portioned meals prepared to honor guests, often in famous food streets like Namak Mandi, offering a unique and authentic taste profile valued for its simplicity, heartwarming richness, and adherence to time-honored cooking traditions</p>
+                    </div>
+                </section>
+                <section id="afghani food">
+                    <h2>afghani food</h2>
+                    <div>
+                        <img src="/images/peshawari-food.jpeg" width="300px" alt="afghani food">
+                        <p>Afghan food is highly appreciated for its unique blend of flavors and culinary traditions drawn from Persian, Central Asian, and South Asian influences, which results in dishes that are aromatic and balanced rather than intensely spicy. The cuisine is heavily reliant on fragrant basmati rice, which often serves as the center of the meal and is prepared in elaborate pulao dishes, with the national dish being Kabuli Pulao (rice with tender meat, caramelized carrots, and raisins). There is a strong emphasis on hearty, meat-based options, including various kebabs and slow-cooked stews (qormas) that feature lamb, beef, or chicken, often accompanied by freshly baked naan bread. The use of fresh herbs like mint and cilantro, along with a mild blend of spices such as cardamom, cumin, and saffron, provides depth of flavor. Furthermore, Afghan food culture places immense value on hospitality and communal dining (dastarkhan), where large platters of food are shared among family and guests, making the dining experience a celebration of tradition and community. </p>
+                    </div>
+                </section>
+            </main>
+            <aside>
+                <h2>popular foods</h2>
+                <div>
+                    <h3>punjabi</h3>
+                    <ul>
+                        <li>Sarson da Saag & Makki di Roti</li>
+                        <li>Butter Chicken</li>
+                        <li>Chole Bhature</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>
+                        balochi
+                    </h3>
+                    <ul>
+                        <li>Sajji</li>
+                        <li>Dumpukht</li>
+                        <li>Khaddi Kabab</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>
+                        sindhi
+                    </h3>
+                    <ul>
+                        <li>Sindhi Biryani</li>
+                        <li>Sai Bhaji Chawal</li>
+                        <li>Dal Pakwan</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>
+                        peshawari
+                    </h3>
+                    <ul>
+                        <li>Chapli Kabab</li>
+                        <li>Namkeen Boti / Tikka</li>
+                        <li>Namkeen Karahi </li>
+                    </ul>
+                </div>
+                <h3>
+                    afghani
+                </h3>
+                <ul>
+                    <li>Kabuli Pulao</li>
+                    <li>Challow</li>
+                    <li>Shami Kebab</li>
+                </ul>
+            </Div>
+            </aside>
+            <footer>
+                <p><span> published by: </span>author name</p>
+                <p><span>date: </span>12/1/2025</p>
+            </footer>
+    </body>
+    
+    </html>
+    <html>
+    <head>
+        <title>Indian cuisine</title>
+        <style>
+            body {
+                background-color: rgb(82, 255, 110)
+            }
+            
+            header {
+                background-color: aqua;
+                color: #70007a;
+                text-align: center;
+                text-transform: capitalize;
+                text-decoration: overline underline;
+                padding: 10px;
+                font-size: large;
+                box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 80px 4px;
+                z-index: 2;
+
+            }
+
+            p {
+              background-color: black;
+              color: #ffe2b7;
+              font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+
+            nav {
+                background-color: rgb(255, 217, 0);
+                border: 1px solid;
+                box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+            }
+
+            div h2 {
+                position: sticky;
+                padding: 5px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <header><strong><h1>Indian cuisine</h1></strong></header>
+        <p>Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Given the
+        diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally
+        available spices, herbs, vegetables, and fruits.
+        
+        Indian food is also heavily influenced by religion, in particular Hinduism and Islam, cultural choices and
+        traditions. Historical events such as invasions, trade relations, and colonialism have played a role in
+        introducing certain foods to India. The Columbian discovery of the New World brought a number of new vegetables and
+        fruits. A number of these such as potatoes, tomatoes, chillies, peanuts, and guava have become staples in many regions
+        of India.
+        
+        Indian cuisine has shaped the history of international relations; the spice trade between India and Europe was the
+        primary catalyst for Europe's Age of Discovery. Spices were bought from India and traded around Europe and Asia.
+        Indian cuisine has influenced other cuisines across the world, especially those from Europe (Britain in particular), the
+        Middle East, Southern African, East Africa, Southeast Asia, North America, Mauritius, Fiji, Oceania, and the
+        Caribbean.
+        
+        World Wildlife Fund (WWF)’s Living Planet Report released on 10 October 2024 emphasized India’s food consumption pattern
+        as the most sustainable among the big economies (G20 countries).</p>
+        <div class="h2"><h2>Types of Indian Food:-</h2></div>
+        <img src="Pithe_Puli_-_Home_-_Kolkata_-_West_Bengal-min.jpg" alt="image" style="width: auto;height: auto;">
+        <img src="Shorshe_Pabda_(Pabo_catfish_in_Mustard_paste)-Home,kolkata-West_Bengal-IMG_0001-min.jpg" alt="image" style="width: auto;height: auto;"><h2>⬇️</h2>
+        <ol>
+            <nav><li><a href="https://en.wikipedia.org/wiki/Bengali_cuisine"><h2>Bengali cuisine</h2></a></li></nav>
+            <p>Mughal cuisine is a universal influencer in the Bengali palate, and has introduced Persian and Islamic foods to the region, as well as a number of more elaborate methods of preparing food, like marination using ghee. Fish, meat (chicken, goat meat), egg, rice, milk, and sugar all play crucial parts in Bengali cuisine.Bengali cuisine can be subdivided into four different types of dishes, charbya (চারব্য), or food that is chewed, such as rice or fish; choṣya, or food that is sucked, such as ambal and tak; lehya (লেহ্য), or foods that are meant to be licked, like chuttney; and peya (পেয়ে), which includes drinks, mainly milk.During the 19th century, many Odia-speaking cooks were employed in Bengal, which led to the transfer of several food items between the two regions. Bengali cuisine is the only traditionally developed multi-course tradition from the Indian subcontinent that is analogous in structure to the modern service à la russe style of French cuisine, with food served course-wise rather than all at once.Bengali cuisine differs according to regional tastes, such as the emphasis on the use of chilli pepper in the Chittagong district of Bangladesh However, across all its varieties, there is predominant use of mustard oil along with large amounts of spices.The cuisine is known for subtle flavours with an emphasis on fish, meat, vegetables, lentils, and rice. Bread is also a common dish in Bengali cuisine, particularly a deep-fried version called luchi is popular. Fresh aquatic fish is one of its most distinctive features; Bengalis prepare fish in many ways, such as steaming, braising, or stewing in vegetables and sauces based on coconut milk or mustard.East Bengali food, which has a high presence in West Bengal and Bangladesh, is much spicier than the West Bengali cuisine, and tends to use high amounts of chilli, and is one of the spiciest cuisines in India and the World.Shondesh and Rashogolla are popular dishes made of sweetened, finely ground fresh cheese. For the latter, West Bengal and neighboring Odisha both claim to be the origin of dessert. Each state also has a geographical indication for their regional variety of rasgulla.The cuisine is also found in the state of Tripura and the Barak Valley of Assam.</p>
+        <img src="Khaman.jpg" alt="image"
+            style="width: auto;height: auto;">
+        <h2>⬇️</h2>
+        <nav><li><a href="https://en.wikipedia.org/wiki/Gujarati_cuisine"><h2>Gujarati cuisine</h2></nav></li></a>
+        <p>Gujarati cuisine is primarily vegetarian. The typical Gujarati thali consists of roti (rotlii in Gujarati), daal or
+        kadhi, rice, sabzi/shaak, papad and chaas (buttermilk).
+        
+        Sabzi is a dish of different combinations of vegetables and spices which may be stir fried, spicy or sweet. Gujarati
+        cuisine can vary widely in flavour and heat based on personal and regional tastes. North Gujarat, Kathiawad, Kachchh,
+        and South Gujarat are the four major regions of Gujarati cuisine.
+        
+        Many Gujarati dishes are simultaneously sweet, salty (like handvo), and spicy. In mango season, keri no ras (fresh mango
+        pulp) is often an integral part of the meal. Spices also vary seasonally. For example, garam masala is used much less in
+        summer.
+        Gujarati snacks include sev khamani, khakhra, dal vada, methi na bhajiya, khaman, bhakharwadi and more.
+        Regular fasting, with diets limited to milk, dried fruit, and nuts, is a common practice</p>
+        <nav><li><a href="https://en.wikipedia.org/wiki/Mughlai_cuisine"><h2>Mughlai cuisine</h2></a>(no image)</li></nav>
+        <p>Mughlai cuisine consists of dishes developed or popularised in the early-modern Indo-Persian cultural centres of the Mughal Empire. It represents a combination of cuisine of the Indian subcontinent with the cooking styles and recipes of Central Asian and Islamic cuisine. Mughlai cuisine is strongly influenced by the Turkic cuisine of Central Asia, the
+        region where the early Mughal emperors originally hailed from, and it has in turn strongly influenced the regional
+         cuisines of Northern India, Pakistan and Bangladesh.The tastes of Mughlai cuisine vary from extremely mild to spicy, and are often associated with a distinctive aroma and the taste of ground and whole spices. A Mughlai course is an elaborate buffet of main course dishes with a variety of
+            accompaniments.</p>
+            <img src="New_Punjab_Club_food_spread.jpg" alt="image" style="width: auto;height: auto;">
+            <img src="Chickentandoori-min.jpg" alt="image" style="width: auto;height: 200px;">
+            <h2>⬇️</h2>
+            <nav><li><a href="https://en.wikipedia.org/wiki/Punjabi_cuisine">
+                    <p>
+                        <h2>Punjabi cuisine</h2>
+                    </p>
+                </a></li></nav>
+                <p>The cuisine of Punjab is known for its diverse range of dishes. It is closely related to the cuisine of the neighbouring
+                Punjab province of Pakistan.
+                
+                The state, being an agriculture center, is abundant with whole grains, vegetables, and fruits. Home-cooked and
+                restaurant Punjabi cuisine can vary significantly.
+                
+                Restaurant-style Punjabi cooking puts emphasis on creamy textured foods by using ghee, butter and cream, while
+                home-cooked meals center around whole wheat, rice, and other ingredients flavored with various kinds of masalas.
+                
+                Common dishes cooked at home are roti with daal and dahi (yogurt) with a side chutney and salad that includes raw onion,
+                tomato, cucumber, etc.
+                
+                The meals are also abundant of local and seasonal vegetables usually sautéed with spices such as cumin, dried coriander,
+                red chili powder, turmeric, black cloves, etc. Masala chai is a favorite drink and is consumed in everyday life and at
+                special occasions.
+                
+                Many regional differences exist in the Punjabi cuisine based on traditional variations in cooking similar dishes, food
+                combinations, preference of spice combination, etc. It is clear that "the food is simple, robust, and closely linked to
+                the land."
+                
+                Certain dishes exclusive to Punjab, such as makki di roti and sarson da saag, dal makhani, and others are a
+                favorite of many.
+                
+                The masala in a Punjabi dish traditionally consists of onion, garlic, ginger, cumin, garam masala, salt, turmeric,
+                tomatoes sauteed in mustard oil. Tandoori food is a Punjabi specialty. Dishes like Bhatti da murgh also known as
+                tandoori chicken, Chicken hariyali kabab, Achari paneer tikka, fish ajwaini tikka and Amritsari kulcha are some popular
+                tandoori foods from Punjab.
+                Common meat dishes in this region are Bhakra curry (goat) and fish dishes. Dairy products are regularly enjoyed and
+                usually accompany main meals in the form of dahi, milk, and milk-derived products such as lassi, paneer, and more.
+            
+                Punjab has a large number of people following the Sikh religion who traditionally follow a vegetarian diet (which
+                includes plant-derived foods, milk, and milk by-products. See diet in Sikhism) in accordance to their beliefs.
+            
+                No description of Punjabi cuisine is complete without the myriad of famous desserts, such as kheer, gajar ka halwa,
+                sooji (cream of wheat) halwa, rasmalai, gulab jamun and jalebi. Most desserts are ghee or dairy-based, use nuts such as
+                almonds, walnuts, pistachios, cashews, and, raisins.
+            
+                Many of the most popular elements of Anglo-Indian cuisine, such as tandoori foods, naan, pakoras and vegetable dishes
+                with paneer, are derived from Punjabi styles.
+            
+                Punjabi food is well liked in the world for its flavors, spices, and, versatile use of produce, and so it is one of the
+                most popular cuisines from the sub-continent. Last but not least are the chhole bhature and chhole kulche which are
+                famous all over the North India.</p>
+                <nav><li><p><h2>South Indian cuisine</h2>(no image)</p></li></nav>
+                <p>South Indian cuisine, includes the cuisines of the five southern states of India—Tamil Nadu, Andhra Pradesh, Karnataka,
+                Kerala and Telangana—and the union territories of Lakshadweep, and Pondicherry. There are typically vegetarian and
+                non-vegetarian dishes for all five states. Additionally, all regions have typical main dishes, snacks, light meals,
+                desserts, and drinks that are well known in their respective region.</p>
+                
+                <ul>Regional cuisines of South Indian include:
+                
+                <li><a href="https://en.wikipedia.org/wiki/Andhra_cuisine">Andhra cuisine</a> </li>
+                <li><a href="https://en.wikipedia.org/wiki/Telangana_cuisine">Telangana cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Tamil_cuisine">Tamil cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Karnataka_cuisine">Karnataka cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Kerala_cuisine">Kerala cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Maldivian_cuisine">Lakshadweep cuisine(Maldivian cuisine)</a></li>
+
+                <p>There are also several regional sub-types of cuisine within these states. Among notable sub-types of regional cuisine
+                include; Udupi cuisine, Chettinad cuisine, Hyderabadi cuisine, Thalassery cuisine, Saraswat cuisine, and Mangalorean
+                Catholic cuisine. South Indian cuisine shares numerous similarities with the cuisines of Sri Lanka and the Maldives due
+                to a similar geographic location and culture.</p>
+                <nav></nav>
+                <p>Phone no.- +1 2017213464</p>
+                <p><address>Place- E Vermon Ave Califonia-90011 </address></p>
+            </ol>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>Indian cuisine</title>
+        <style>
+            body {
+                background-color: rgb(82, 255, 110)
+            }
+            
+            header {
+                background-color: aqua;
+                color: #70007a;
+                text-align: center;
+                text-transform: capitalize;
+                text-decoration: overline underline;
+                padding: 10px;
+                font-size: large;
+                box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 80px 4px;
+                z-index: 2;
+
+            }
+
+            p {
+              background-color: black;
+              color: #ffe2b7;
+              font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+
+            nav {
+                background-color: rgb(255, 217, 0);
+                border: 1px solid;
+                box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+            }
+
+            div h2 {
+                position: sticky;
+                padding: 5px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <header><strong><h1>Indian cuisine</h1></strong></header>
+        <p>Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent. Given the
+        diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use locally
+        available spices, herbs, vegetables, and fruits.
+        
+        Indian food is also heavily influenced by religion, in particular Hinduism and Islam, cultural choices and
+        traditions. Historical events such as invasions, trade relations, and colonialism have played a role in
+        introducing certain foods to India. The Columbian discovery of the New World brought a number of new vegetables and
+        fruits. A number of these such as potatoes, tomatoes, chillies, peanuts, and guava have become staples in many regions
+        of India.
+        
+        Indian cuisine has shaped the history of international relations; the spice trade between India and Europe was the
+        primary catalyst for Europe's Age of Discovery. Spices were bought from India and traded around Europe and Asia.
+        Indian cuisine has influenced other cuisines across the world, especially those from Europe (Britain in particular), the
+        Middle East, Southern African, East Africa, Southeast Asia, North America, Mauritius, Fiji, Oceania, and the
+        Caribbean.
+        
+        World Wildlife Fund (WWF)’s Living Planet Report released on 10 October 2024 emphasized India’s food consumption pattern
+        as the most sustainable among the big economies (G20 countries).</p>
+        <div class="h2"><h2>Types of Indian Food:-</h2></div>
+        <img src="Pithe_Puli_-_Home_-_Kolkata_-_West_Bengal-min.jpg" alt="image" style="width: auto;height: auto;">
+        <img src="Shorshe_Pabda_(Pabo_catfish_in_Mustard_paste)-Home,kolkata-West_Bengal-IMG_0001-min.jpg" alt="image" style="width: auto;height: auto;"><h2>⬇️</h2>
+        <ol>
+            <nav><li><a href="https://en.wikipedia.org/wiki/Bengali_cuisine"><h2>Bengali cuisine</h2></a></li></nav>
+            <p>Mughal cuisine is a universal influencer in the Bengali palate, and has introduced Persian and Islamic foods to the region, as well as a number of more elaborate methods of preparing food, like marination using ghee. Fish, meat (chicken, goat meat), egg, rice, milk, and sugar all play crucial parts in Bengali cuisine.Bengali cuisine can be subdivided into four different types of dishes, charbya (চারব্য), or food that is chewed, such as rice or fish; choṣya, or food that is sucked, such as ambal and tak; lehya (লেহ্য), or foods that are meant to be licked, like chuttney; and peya (পেয়ে), which includes drinks, mainly milk.During the 19th century, many Odia-speaking cooks were employed in Bengal, which led to the transfer of several food items between the two regions. Bengali cuisine is the only traditionally developed multi-course tradition from the Indian subcontinent that is analogous in structure to the modern service à la russe style of French cuisine, with food served course-wise rather than all at once.Bengali cuisine differs according to regional tastes, such as the emphasis on the use of chilli pepper in the Chittagong district of Bangladesh However, across all its varieties, there is predominant use of mustard oil along with large amounts of spices.The cuisine is known for subtle flavours with an emphasis on fish, meat, vegetables, lentils, and rice. Bread is also a common dish in Bengali cuisine, particularly a deep-fried version called luchi is popular. Fresh aquatic fish is one of its most distinctive features; Bengalis prepare fish in many ways, such as steaming, braising, or stewing in vegetables and sauces based on coconut milk or mustard.East Bengali food, which has a high presence in West Bengal and Bangladesh, is much spicier than the West Bengali cuisine, and tends to use high amounts of chilli, and is one of the spiciest cuisines in India and the World.Shondesh and Rashogolla are popular dishes made of sweetened, finely ground fresh cheese. For the latter, West Bengal and neighboring Odisha both claim to be the origin of dessert. Each state also has a geographical indication for their regional variety of rasgulla.The cuisine is also found in the state of Tripura and the Barak Valley of Assam.</p>
+        <img src="Khaman.jpg" alt="image"
+            style="width: auto;height: auto;">
+        <h2>⬇️</h2>
+        <nav><li><a href="https://en.wikipedia.org/wiki/Gujarati_cuisine"><h2>Gujarati cuisine</h2></nav></li></a>
+        <p>Gujarati cuisine is primarily vegetarian. The typical Gujarati thali consists of roti (rotlii in Gujarati), daal or
+        kadhi, rice, sabzi/shaak, papad and chaas (buttermilk).
+        
+        Sabzi is a dish of different combinations of vegetables and spices which may be stir fried, spicy or sweet. Gujarati
+        cuisine can vary widely in flavour and heat based on personal and regional tastes. North Gujarat, Kathiawad, Kachchh,
+        and South Gujarat are the four major regions of Gujarati cuisine.
+        
+        Many Gujarati dishes are simultaneously sweet, salty (like handvo), and spicy. In mango season, keri no ras (fresh mango
+        pulp) is often an integral part of the meal. Spices also vary seasonally. For example, garam masala is used much less in
+        summer.
+        Gujarati snacks include sev khamani, khakhra, dal vada, methi na bhajiya, khaman, bhakharwadi and more.
+        Regular fasting, with diets limited to milk, dried fruit, and nuts, is a common practice</p>
+        <nav><li><a href="https://en.wikipedia.org/wiki/Mughlai_cuisine"><h2>Mughlai cuisine</h2></a>(no image)</li></nav>
+        <p>Mughlai cuisine consists of dishes developed or popularised in the early-modern Indo-Persian cultural centres of the Mughal Empire. It represents a combination of cuisine of the Indian subcontinent with the cooking styles and recipes of Central Asian and Islamic cuisine. Mughlai cuisine is strongly influenced by the Turkic cuisine of Central Asia, the
+        region where the early Mughal emperors originally hailed from, and it has in turn strongly influenced the regional
+         cuisines of Northern India, Pakistan and Bangladesh.The tastes of Mughlai cuisine vary from extremely mild to spicy, and are often associated with a distinctive aroma and the taste of ground and whole spices. A Mughlai course is an elaborate buffet of main course dishes with a variety of
+            accompaniments.</p>
+            <img src="New_Punjab_Club_food_spread.jpg" alt="image" style="width: auto;height: auto;">
+            <img src="Chickentandoori-min.jpg" alt="image" style="width: auto;height: 200px;">
+            <h2>⬇️</h2>
+            <nav><li><a href="https://en.wikipedia.org/wiki/Punjabi_cuisine">
+                    <p>
+                        <h2>Punjabi cuisine</h2>
+                    </p>
+                </a></li></nav>
+                <p>The cuisine of Punjab is known for its diverse range of dishes. It is closely related to the cuisine of the neighbouring
+                Punjab province of Pakistan.
+                
+                The state, being an agriculture center, is abundant with whole grains, vegetables, and fruits. Home-cooked and
+                restaurant Punjabi cuisine can vary significantly.
+                
+                Restaurant-style Punjabi cooking puts emphasis on creamy textured foods by using ghee, butter and cream, while
+                home-cooked meals center around whole wheat, rice, and other ingredients flavored with various kinds of masalas.
+                
+                Common dishes cooked at home are roti with daal and dahi (yogurt) with a side chutney and salad that includes raw onion,
+                tomato, cucumber, etc.
+                
+                The meals are also abundant of local and seasonal vegetables usually sautéed with spices such as cumin, dried coriander,
+                red chili powder, turmeric, black cloves, etc. Masala chai is a favorite drink and is consumed in everyday life and at
+                special occasions.
+                
+                Many regional differences exist in the Punjabi cuisine based on traditional variations in cooking similar dishes, food
+                combinations, preference of spice combination, etc. It is clear that "the food is simple, robust, and closely linked to
+                the land."
+                
+                Certain dishes exclusive to Punjab, such as makki di roti and sarson da saag, dal makhani, and others are a
+                favorite of many.
+                
+                The masala in a Punjabi dish traditionally consists of onion, garlic, ginger, cumin, garam masala, salt, turmeric,
+                tomatoes sauteed in mustard oil. Tandoori food is a Punjabi specialty. Dishes like Bhatti da murgh also known as
+                tandoori chicken, Chicken hariyali kabab, Achari paneer tikka, fish ajwaini tikka and Amritsari kulcha are some popular
+                tandoori foods from Punjab.
+                Common meat dishes in this region are Bhakra curry (goat) and fish dishes. Dairy products are regularly enjoyed and
+                usually accompany main meals in the form of dahi, milk, and milk-derived products such as lassi, paneer, and more.
+            
+                Punjab has a large number of people following the Sikh religion who traditionally follow a vegetarian diet (which
+                includes plant-derived foods, milk, and milk by-products. See diet in Sikhism) in accordance to their beliefs.
+            
+                No description of Punjabi cuisine is complete without the myriad of famous desserts, such as kheer, gajar ka halwa,
+                sooji (cream of wheat) halwa, rasmalai, gulab jamun and jalebi. Most desserts are ghee or dairy-based, use nuts such as
+                almonds, walnuts, pistachios, cashews, and, raisins.
+            
+                Many of the most popular elements of Anglo-Indian cuisine, such as tandoori foods, naan, pakoras and vegetable dishes
+                with paneer, are derived from Punjabi styles.
+            
+                Punjabi food is well liked in the world for its flavors, spices, and, versatile use of produce, and so it is one of the
+                most popular cuisines from the sub-continent. Last but not least are the chhole bhature and chhole kulche which are
+                famous all over the North India.</p>
+                <nav><li><p><h2>South Indian cuisine</h2>(no image)</p></li></nav>
+                <p>South Indian cuisine, includes the cuisines of the five southern states of India—Tamil Nadu, Andhra Pradesh, Karnataka,
+                Kerala and Telangana—and the union territories of Lakshadweep, and Pondicherry. There are typically vegetarian and
+                non-vegetarian dishes for all five states. Additionally, all regions have typical main dishes, snacks, light meals,
+                desserts, and drinks that are well known in their respective region.</p>
+                
+                <ul>Regional cuisines of South Indian include:
+                
+                <li><a href="https://en.wikipedia.org/wiki/Andhra_cuisine">Andhra cuisine</a> </li>
+                <li><a href="https://en.wikipedia.org/wiki/Telangana_cuisine">Telangana cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Tamil_cuisine">Tamil cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Karnataka_cuisine">Karnataka cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Kerala_cuisine">Kerala cuisine</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Maldivian_cuisine">Lakshadweep cuisine(Maldivian cuisine)</a></li>
+
+                <p>There are also several regional sub-types of cuisine within these states. Among notable sub-types of regional cuisine
+                include; Udupi cuisine, Chettinad cuisine, Hyderabadi cuisine, Thalassery cuisine, Saraswat cuisine, and Mangalorean
+                Catholic cuisine. South Indian cuisine shares numerous similarities with the cuisines of Sri Lanka and the Maldives due
+                to a similar geographic location and culture.</p>
+                <nav></nav>
+                <p>Phone no.- +1 2017213464</p>
+                <p><address>Place- E Vermon Ave Califonia-90011 </address></p>
+            </ol>
+    </body>
+</html>
+<html>
+<head>
+    <title>Indian cuisine</title>
+    <style>
+        body {
+            background-color: rgb(82, 255, 110);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        header {
+            background-color: aqua;
+            color: #70007a;
+            text-transform: capitalize;
+            text-decoration: overline underline;
+            padding: 10px;
+            font-size: large;
+            box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 80px 4px;
+            z-index: 2;
+            text-align: center;
+        }
+
+        p {
+            background-color: black;
+            color: #ffe2b7;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        nav {
+            background-color: rgb(255, 217, 0);
+            border: 1px solid;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+            
+        }
+
+        h2 {
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="flex-container">
+    <header>
+        <strong>
+            <h1>Indian cuisine</h1>
+        </strong>
+    </header>
+    <p>Indian cuisine consists of a variety of regional and traditional cuisines native to the Indian subcontinent.
+        Given the
+        diversity in soil, climate, culture, ethnic groups, and occupations, these cuisines vary substantially and use
+        locally
+        available spices, herbs, vegetables, and fruits.
+
+        Indian food is also heavily influenced by religion, in particular Hinduism and Islam, cultural choices and
+        traditions. Historical events such as invasions, trade relations, and colonialism have played a role in
+        introducing certain foods to India. The Columbian discovery of the New World brought a number of new vegetables
+        and
+        fruits. A number of these such as potatoes, tomatoes, chillies, peanuts, and guava have become staples in many
+        regions
+        of India.
+
+        Indian cuisine has shaped the history of international relations; the spice trade between India and Europe was
+        the
+        primary catalyst for Europe's Age of Discovery. Spices were bought from India and traded around Europe and Asia.
+        Indian cuisine has influenced other cuisines across the world, especially those from Europe (Britain in
+        particular), the
+        Middle East, Southern African, East Africa, Southeast Asia, North America, Mauritius, Fiji, Oceania, and the
+        Caribbean.
+
+        World Wildlife Fund (WWF)’s Living Planet Report released on 10 October 2024 emphasized India’s food consumption
+        pattern
+        as the most sustainable among the big economies (G20 countries).</p>
+        <h2>Types of Indian Food:-</h2>
+    </div>
+    <div><img src="Pithe_Puli_-_Home_-_Kolkata_-_West_Bengal-min.jpg" alt="image" style="width: 200px;height: 200px;">
+    <img src="Shorshe_Pabda_(Pabo_catfish_in_Mustard_paste)-Home,kolkata-West_Bengal-IMG_0001-min.jpg" alt="image"
+        style="width: 200px; height: 200px;"></div>
+    <h2>⬇️</h2>
+    <ol>
+        <nav>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Bengali_cuisine">
+                    <h2>Bengali cuisine</h2>
+                </a>
+            </li>
+        </nav>
+        <p>Mughal cuisine is a universal influencer in the Bengali palate, and has introduced Persian and Islamic foods
+            to the region, as well as a number of more elaborate methods of preparing food, like marination using ghee.
+            Fish, meat (chicken, goat meat), egg, rice, milk, and sugar all play crucial parts in Bengali
+            cuisine.Bengali cuisine can be subdivided into four different types of dishes, charbya (চারব্য), or food
+            that is chewed, such as rice or fish; choṣya, or food that is sucked, such as ambal and tak; lehya (লেহ্য),
+            or foods that are meant to be licked, like chuttney; and peya (পেয়ে), which includes drinks, mainly
+            milk.During the 19th century, many Odia-speaking cooks were employed in Bengal, which led to the transfer of
+            several food items between the two regions. Bengali cuisine is the only traditionally developed multi-course
+            tradition from the Indian subcontinent that is analogous in structure to the modern service à la russe style
+            of French cuisine, with food served course-wise rather than all at once.Bengali cuisine differs according to
+            regional tastes, such as the emphasis on the use of chilli pepper in the Chittagong district of Bangladesh
+            However, across all its varieties, there is predominant use of mustard oil along with large amounts of
+            spices.The cuisine is known for subtle flavours with an emphasis on fish, meat, vegetables, lentils, and
+            rice. Bread is also a common dish in Bengali cuisine, particularly a deep-fried version called luchi is
+            popular. Fresh aquatic fish is one of its most distinctive features; Bengalis prepare fish in many ways,
+            such as steaming, braising, or stewing in vegetables and sauces based on coconut milk or mustard.East
+            Bengali food, which has a high presence in West Bengal and Bangladesh, is much spicier than the West Bengali
+            cuisine, and tends to use high amounts of chilli, and is one of the spiciest cuisines in India and the
+            World.Shondesh and Rashogolla are popular dishes made of sweetened, finely ground fresh cheese. For the
+            latter, West Bengal and neighboring Odisha both claim to be the origin of dessert. Each state also has a
+            geographical indication for their regional variety of rasgulla.The cuisine is also found in the state of
+            Tripura and the Barak Valley of Assam.</p>
+        <div><img src="Khaman.jpg" alt="image" style="width: auto;height: auto;"></div>
+        <h2>⬇️</h2>
+        <nav>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Gujarati_cuisine">
+                    <h2>Gujarati cuisine</h2>
+        </nav>
+        </li></a>
+        <p>Gujarati cuisine is primarily vegetarian. The typical Gujarati thali consists of roti (rotlii in Gujarati),
+            daal or
+            kadhi, rice, sabzi/shaak, papad and chaas (buttermilk).
+
+            Sabzi is a dish of different combinations of vegetables and spices which may be stir fried, spicy or sweet.
+            Gujarati
+            cuisine can vary widely in flavour and heat based on personal and regional tastes. North Gujarat, Kathiawad,
+            Kachchh,
+            and South Gujarat are the four major regions of Gujarati cuisine.
+
+            Many Gujarati dishes are simultaneously sweet, salty (like handvo), and spicy. In mango season, keri no ras
+            (fresh mango
+            pulp) is often an integral part of the meal. Spices also vary seasonally. For example, garam masala is used
+            much less in
+            summer.
+            Gujarati snacks include sev khamani, khakhra, dal vada, methi na bhajiya, khaman, bhakharwadi and more.
+            Regular fasting, with diets limited to milk, dried fruit, and nuts, is a common practice</p>
+        <nav>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Mughlai_cuisine">
+                    <h2>Mughlai cuisine</h2>
+                </a>
+                (no image)
+            </li>
+        </nav>
+        <p>Mughlai cuisine consists of dishes developed or popularised in the early-modern Indo-Persian cultural centres
+            of the Mughal Empire. It represents a combination of cuisine of the Indian subcontinent with the cooking
+            styles and recipes of Central Asian and Islamic cuisine. Mughlai cuisine is strongly influenced by the
+            Turkic cuisine of Central Asia, the
+            region where the early Mughal emperors originally hailed from, and it has in turn strongly influenced the
+            regional
+            cuisines of Northern India, Pakistan and Bangladesh.The tastes of Mughlai cuisine vary from extremely mild
+            to spicy, and are often associated with a distinctive aroma and the taste of ground and whole spices. A
+            Mughlai course is an elaborate buffet of main course dishes with a variety of
+            accompaniments.</p>
+        <div><img src="New_Punjab_Club_food_spread.jpg" alt="image" style="width: auto;height: auto;">
+        <img src="Chickentandoori-min.jpg" alt="image" style="width: auto;height: 200px;"></div>
+        <h2>⬇️</h2>
+        <nav>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Punjabi_cuisine">
+                    <p>
+                        <h2>Punjabi cuisine</h2>
+                    </p>
+                </a>
+            </li>
+        </nav>
+        <p>The cuisine of Punjab is known for its diverse range of dishes. It is closely related to the cuisine of the
+            neighbouring
+            Punjab province of Pakistan.
+
+            The state, being an agriculture center, is abundant with whole grains, vegetables, and fruits. Home-cooked
+            and
+            restaurant Punjabi cuisine can vary significantly.
+
+            Restaurant-style Punjabi cooking puts emphasis on creamy textured foods by using ghee, butter and cream,
+            while
+            home-cooked meals center around whole wheat, rice, and other ingredients flavored with various kinds of
+            masalas.
+
+            Common dishes cooked at home are roti with daal and dahi (yogurt) with a side chutney and salad that
+            includes raw onion,
+            tomato, cucumber, etc.
+
+            The meals are also abundant of local and seasonal vegetables usually sautéed with spices such as cumin,
+            dried coriander,
+            red chili powder, turmeric, black cloves, etc. Masala chai is a favorite drink and is consumed in everyday
+            life and at
+            special occasions.
+
+            Many regional differences exist in the Punjabi cuisine based on traditional variations in cooking similar
+            dishes, food
+            combinations, preference of spice combination, etc. It is clear that "the food is simple, robust, and
+            closely linked to
+            the land."
+
+            Certain dishes exclusive to Punjab, such as makki di roti and sarson da saag, dal makhani, and others are a
+            favorite of many.
+
+            The masala in a Punjabi dish traditionally consists of onion, garlic, ginger, cumin, garam masala, salt,
+            turmeric,
+            tomatoes sauteed in mustard oil. Tandoori food is a Punjabi specialty. Dishes like Bhatti da murgh also
+            known as
+            tandoori chicken, Chicken hariyali kabab, Achari paneer tikka, fish ajwaini tikka and Amritsari kulcha are
+            some popular
+            tandoori foods from Punjab.
+            Common meat dishes in this region are Bhakra curry (goat) and fish dishes. Dairy products are regularly
+            enjoyed and
+            usually accompany main meals in the form of dahi, milk, and milk-derived products such as lassi, paneer, and
+            more.
+
+            Punjab has a large number of people following the Sikh religion who traditionally follow a vegetarian diet
+            (which
+            includes plant-derived foods, milk, and milk by-products. See diet in Sikhism) in accordance to their
+            beliefs.
+
+            No description of Punjabi cuisine is complete without the myriad of famous desserts, such as kheer, gajar ka
+            halwa,
+            sooji (cream of wheat) halwa, rasmalai, gulab jamun and jalebi. Most desserts are ghee or dairy-based, use
+            nuts such as
+            almonds, walnuts, pistachios, cashews, and, raisins.
+
+            Many of the most popular elements of Anglo-Indian cuisine, such as tandoori foods, naan, pakoras and
+            vegetable dishes
+            with paneer, are derived from Punjabi styles.
+
+            Punjabi food is well liked in the world for its flavors, spices, and, versatile use of produce, and so it is
+            one of the
+            most popular cuisines from the sub-continent. Last but not least are the chhole bhature and chhole kulche
+            which are
+            famous all over the North India.</p>
+        <nav>
+            <li>
+                <p>
+                <h2>South Indian cuisine</h2>
+                (no image)
+                </p>
+            </li>
+        </nav>
+        <p>South Indian cuisine, includes the cuisines of the five southern states of India—Tamil Nadu, Andhra Pradesh,
+            Karnataka,
+            Kerala and Telangana—and the union territories of Lakshadweep, and Pondicherry. There are typically
+            vegetarian and
+            non-vegetarian dishes for all five states. Additionally, all regions have typical main dishes, snacks, light
+            meals,
+            desserts, and drinks that are well known in their respective region.</p>
+        <ul>
+            Regional cuisines of South Indian include:
+
+
+            <div><li>
+                <a href="https://en.wikipedia.org/wiki/Andhra_cuisine">Andhra cuisine</a>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Telangana_cuisine">Telangana cuisine</a>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Tamil_cuisine">Tamil cuisine</a>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Karnataka_cuisine">Karnataka cuisine</a>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Kerala_cuisine">Kerala cuisine</a>
+            </li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Maldivian_cuisine">Lakshadweep cuisine(Maldivian cuisine)</a>
+            </li></div>
+            <p>There are also several regional sub-types of cuisine within these states. Among notable sub-types of
+                regional cuisine
+                include; Udupi cuisine, Chettinad cuisine, Hyderabadi cuisine, Thalassery cuisine, Saraswat cuisine, and
+                Mangalorean
+                Catholic cuisine. South Indian cuisine shares numerous similarities with the cuisines of Sri Lanka and
+                the Maldives due
+                to a similar geographic location and culture.</p>
+            <nav></nav>
+            <div><p>Phone no.- +1 2017213464</p>
+            <p>
+            <address>Place- E Vermon Ave Califonia-90011 </address></div>
+            </p>
+        </div>
+        </ul>
+    </ol>
+</body>
+</html>
+<aside>
+<h2>Popular Foods</h2>
+<div>
+<h3>North Indian</h3>
+<ul>
+<li>Chole Bhature</li>
+<li>Samosa</li>
+<li>Jalebi</li>
+<li>Dahi Bhalla</li>
+</ul>
+</div>
+<div>
+<h3>
+South Indian
+</h3>
+<ul>
+<li>Idli</li>
+<li>Masala Dosa</li>
+<li>Pongal </li>
+<li>Bisi Bele Bath</li>
+</ul>
+</div>
+<div>
+<h3>
+Mughalai
+</h3>
+<ul>
+<li>Chicken Biryani</li>
+<li>Butter Chicken</li>
+<li>Rogan Josh</li>
+</ul>
+</div>
+</aside>
